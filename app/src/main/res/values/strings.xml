@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="message_resultado">%1$s!</string>
+</resources>
